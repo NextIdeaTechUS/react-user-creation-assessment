@@ -1,5 +1,7 @@
 # Next Idea React assessment
 
+IMPORTANT: Once finished, please create a new feature branch; assessments/usercreation_yourLastName_firstname and push to the repository. DO NOT commit your code to the main/master branch.
+
 ## Goals of the assessment
 
 Evaluate the implementation of concepts related to component-based architectures, testing, and frontend related knowledge in general.
