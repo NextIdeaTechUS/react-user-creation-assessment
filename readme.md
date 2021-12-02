@@ -1,6 +1,6 @@
 # Next Idea React assessment
 
-IMPORTANT: Once finished, please create a new feature branch; assessments/usercreation_yourLastName_firstname and push to the repository. DO NOT commit your code to the main/master branch.
+IMPORTANT: Once finished, please create a new feature branch; assessments/yourLastName_firstname and push to the repository. DO NOT commit your code to the main/master branch.
 
 ## Goals of the assessment
 
