@@ -1,4 +1,4 @@
-# React assessment
+# Next Idea React assessment
 
 ## Goals of the assessment
 
